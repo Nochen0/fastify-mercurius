@@ -1,1 +1,1 @@
-# A simple implementation of fastify, mercurius and type-graphql
+A simple implementation of fastify, mercurius and type-graphql
